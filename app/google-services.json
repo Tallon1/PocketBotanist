@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "235581583490",
+    "firebase_url": "https://pocket-botanist-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pocket-botanist",
+    "storage_bucket": "pocket-botanist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235581583490:android:ff20dd2cc9087c796dc49b",
+        "android_client_info": {
+          "package_name": "com.java.pocketbotanist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235581583490-4krfsrht9bskd9jcq6q4rmstmle0bp08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSPHU5KBiU2cqI_4JDHiX6ANgX5fhjies"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235581583490-4krfsrht9bskd9jcq6q4rmstmle0bp08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

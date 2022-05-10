@@ -1,0 +1,9 @@
+Potato - Healthy
+Apple - Healthy
+Tomato - Healthy
+Tomato - Early Blight
+Potato - Late Blight
+Apple - Apple Scab
+Potato - Early Blight
+Tomato - Late Blight
+Blueberry - Healthy
