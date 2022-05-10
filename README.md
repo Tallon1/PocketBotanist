@@ -1,5 +1,5 @@
-# PocketBotanist
-An Android Application for Plant Care which utilising TensorFlow for plant classification.
+<h1 align="center"><b>PocketBotanist</b></h1>
+<h3 align="center">An Android Application for Plant Care which utilising TensorFlow for plant classification.</h2>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58697687/167644942-e0050904-f81d-4209-963d-8620c240432f.png">
 </p>
