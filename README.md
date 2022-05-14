@@ -5,5 +5,5 @@
 <hr>
 <h4 align="center">An inside look at Pocket Botanist.</h4>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58697687/168273854-6735acd0-b816-469f-a72e-bf851ff53477.png">
+  <img src="https://user-images.githubusercontent.com/58697687/168441756-66c5d8a6-60d1-4b7b-95fb-d7b752555632.png">
 </p>
